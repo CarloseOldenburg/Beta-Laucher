@@ -79,7 +79,7 @@ O **Beta Launcher VSD** é uma ferramenta de automação desenvolvida em Shell S
 ### 🚀 Instalar:
 
 ```bash
-sudo wget -O /usr/bin/beta-launcher https://raw.githubusercontent.com/CarloseOldenburg/updater/main/beta-launcher
+sudo wget -O /usr/bin/beta-launcher https://raw.githubusercontent.com/CarloseOldenburg/beta-laucher/refs/heads/main/beta-launcher
 sudo chmod +x /usr/bin/beta-launcher
 ````
 
@@ -123,8 +123,14 @@ Este projeto está sob licença **MIT**.
 
 ---
 
-## 👨‍💻 Desenvolvido por:
+## 👤 Autor
 
-**Carlos Eduardo Oldenburg**
+Desenvolvido por [Carlos Eduardo Oldenburg](https://github.com/CarloseOldenburg)
+Colaboração e fonte do launcher por [Wilker Santos](https://github.com/wilker-santos)
 
+---
+
+## 📜 Licença
+
+Distribuído sob licença livre para uso interno corporativo e manutenção de terminais com sistemas VideoSoft.
 
