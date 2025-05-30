@@ -117,12 +117,6 @@ Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias
 
 ---
 
-## 🧠 Licença
-
-Este projeto está sob licença **MIT**.
-
----
-
 ## 👤 Autor
 
 Desenvolvido por [Carlos Eduardo Oldenburg](https://github.com/CarloseOldenburg)
