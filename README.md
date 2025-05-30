@@ -79,7 +79,7 @@ O **Beta Launcher VSD** é uma ferramenta de automação desenvolvida em Shell S
 ### 🚀 Instalar:
 
 ```bash
-sudo wget -O /usr/bin/beta-launcher https://raw.githubusercontent.com/CarloseOldenburg/beta-laucher/refs/heads/main/beta-launcher
+sudo wget -O /usr/bin/beta-launcher https://raw.githubusercontent.com/CarloseOldenburg/Beta-Laucher/refs/heads/main/beta-launcher
 sudo chmod +x /usr/bin/beta-launcher
 ````
 
